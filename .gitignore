@@ -1,0 +1,13 @@
+.taste-skill/
+.taste-draw-options.txt
+.taste-direction.txt
+.impeccable/
+.playwright-cli/
+.qa/
+.qa-*.png
+.DS_Store
+node_modules/
+*.log
+download.html
+images.jpeg
+/*.png
